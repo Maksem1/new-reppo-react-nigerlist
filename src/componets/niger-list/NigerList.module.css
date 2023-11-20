@@ -1,0 +1,11 @@
+.nigerList {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+  
+.inposter {
+    color: #000;
+    background-color: white;
+    border: 2px solid black;
+}
